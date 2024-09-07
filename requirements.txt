@@ -1,0 +1,11 @@
+annotated-types==0.7.0
+beautifulsoup4==4.12.3
+bs4==0.0.2
+imap-tools==1.7.2
+IMAPClient==3.0.1
+pydantic_core==2.23.2
+python-dotenv==1.0.1
+pyzmail36==1.0.5
+soupsieve==2.6
+typing_extensions==4.12.2
+tzdata==2024.1

@@ -1,0 +1,5 @@
+Nombre: {name}
+
+Quiero comprar: {product}
+
+Cantidad: {qty}
