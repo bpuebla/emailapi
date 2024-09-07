@@ -3,6 +3,9 @@
 ## Instructions of deployment with gmail
 
 ### Gmail Setup
+In https://mail.google.com/mail/u/0/#settings/fwdandpop:
+
+- Enable IMAP
 
 In https://myaccount.google.com/ -> Security:
 
